@@ -1,0 +1,5 @@
+data/*.sqlite
+data/*.sqlite-*
+exports/
+__pycache__/
+*.pyc
